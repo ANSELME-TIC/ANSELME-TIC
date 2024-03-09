@@ -13,7 +13,7 @@ I'm Anselme and I'm Network and Infrastructure Engineer at SENEGAL
 ---
 <br>
 
-You can see below, a general overview of my hard skills :
+You can see below, a general overview of my hard skills and the tools I've already used :
 
 <br>
 
