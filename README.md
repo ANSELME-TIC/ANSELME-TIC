@@ -68,4 +68,4 @@ You can see below, a general overview of my hard skills and the tools I've alrea
 
 ---
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anselme-tic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANSELME-TIC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
