@@ -8,7 +8,7 @@ I'm Anselme and I'm Network and Infrastructure Engineer at SENEGAL
 - ⛳My Gaols are to learn useful knowledges, share them and contribute to expand my ideas throughout open source projects on Github.
 - 🌱 I have skills in network, system, programming, automation, data science and I'm certified Cisco Network Associate.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/anselme-wilfried-ouedraogo-908bb5194/) or on [e-mail](mailto:wilfried.ouedraogo@itpartages.com)
-
+- 📅 Soon my blog and portfolio [website](https://www.itpartages.com)
  
 ---
 <br>
