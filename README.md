@@ -65,3 +65,7 @@ You can see below, a general overview of my hard skills and the tools I've alrea
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;    
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anselme-tic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
