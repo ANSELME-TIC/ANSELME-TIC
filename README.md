@@ -38,7 +38,7 @@ You can see below, a general overview of my hard skills and the tools I've alrea
      <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" title="Windows Server" alt="Windows Server" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;    
      <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" title="Vmware" alt="Vmware" width="40" height="40"/>&nbsp; 
-    <img src=" https://upload.wikimedia.org/wikipedia/commons/e/ea/Virtualbox_Faenza.svg" title="Virtualbox" alt="Virtualbox" width="40" height="40"/>&nbsp;     
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Virtualbox_Faenza.svg" title="Virtualbox" alt="Virtualbox" width="40" height="40"/>&nbsp;     
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
